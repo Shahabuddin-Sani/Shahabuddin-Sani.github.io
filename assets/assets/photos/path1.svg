@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="178.14832mm"
+   height="211.28365mm"
+   viewBox="0 0 178.14832 211.28365"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="106.32798"
+       y="516.4502"
+       width="235.44054"
+       height="119.99872"
+       id="rect4" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-24.69439,-15.270711)">
+    <ellipse
+       style="fill:#ffff00;stroke:#1a1a1a;stroke-width:1.37933;-inkscape-stroke:none"
+       id="path1"
+       cx="88.215828"
+       cy="95.85183"
+       rx="34.76387"
+       ry="35.567657" />
+    <rect
+       style="fill:#ffff00;stroke:#1a1a1a;stroke-width:1.37933;-inkscape-stroke:none"
+       id="rect1"
+       width="69.52774"
+       height="55.05954"
+       x="71.537209"
+       y="170.80515" />
+    <path
+       d="m 162.36528,90.024479 v 24.917341 h -8.03775 v 40.18928 h 37.77806 v -23.71173 h 10.04745 V 90.024479 Z"
+       style="fill:#ffff00;stroke:#1a1a1a;stroke-width:1.37933"
+       id="path3" />
+    <path
+       style="fill:#ffff00;stroke:#1a1a1a;stroke-width:1.37933;-inkscape-stroke:none"
+       d="m 25.31935,51.040596 c 3.26023,-6.986014 8.83336,-12.254672 13.664411,-18.085253 1.829181,-2.20763 3.516352,-4.529743 5.224629,-6.832204 1.373317,-1.850995 2.468554,-3.921095 4.018944,-5.626522 2.199881,-2.419871 5.686528,-5.132248 9.243573,-4.420839 1.099302,0.21986 4.080431,2.570113 4.420838,2.813261 3.495601,2.496859 7.176683,5.21027 10.047362,8.439784 0.890013,1.001265 1.515189,2.219401 2.411365,3.215156 1.647602,1.830667 3.554084,3.414871 5.224629,5.224626 0.965914,1.046409 1.628367,2.425226 2.813261,3.215156 0.338749,0.225832 3.968152,0 4.420839,0 4.747344,0 7.985725,-1.453063 12.458728,-3.215156 2.407231,-0.948304 4.843401,-1.824006 7.234101,-2.813262 1.49571,-0.618913 2.954,-1.324946 4.42084,-2.00947 0.81435,-0.380032 1.5127,-1.205683 2.41137,-1.205683 0.81487,0 1.75234,-0.07739 2.41136,0.401894 0.93199,0.677813 1.22782,1.966466 2.00947,2.813259 1.48777,1.611749 3.39603,2.843417 5.22463,4.018947 2.37656,1.527789 4.05375,2.893047 6.43031,4.420838 0.75594,0.485958 1.72905,0.62084 2.41137,1.205683 0.32164,0.275698 0.26793,0.803788 0.40189,1.205685"
+       id="path4" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.6170501,-0.40189445)"
+       id="text4"
+       style="font-size:96px;font-family:'Li Alinur Bahubrihi ANSI V2';-inkscape-font-specification:'Li Alinur Bahubrihi ANSI V2';white-space:pre;shape-inside:url(#rect4);fill:#ffff00;stroke:#1a1a1a;stroke-width:5.21322;-inkscape-stroke:none"><tspan
+         x="106.32812"
+         y="603.12109"
+         id="tspan2"><tspan
+           style="font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math'"
+           id="tspan1">Sani</tspan></tspan></text>
+  </g>
+</svg>
